@@ -1,0 +1,17 @@
+{
+  "name": "hotmart-price-scraper",
+  "version": "1.0.0",
+  "description": "Coleta preços do checkout Hotmart por país 2x ao dia via GitHub Actions",
+  "main": "collect-prices.js",
+  "scripts": {
+    "collect":  "node collect-prices.js",
+    "debug":    "node -e \"process.env.HEADLESS='false'; process.env.DEBUG='true';\" && node collect-prices.js",
+    "discover": "node discover-selectors.js"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
