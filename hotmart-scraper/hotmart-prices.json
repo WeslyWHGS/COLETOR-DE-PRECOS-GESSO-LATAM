@@ -1,7 +1,148 @@
 {
-  "updatedAt": null,
-  "checkoutUrl": null,
-  "totalCountries": 0,
-  "prices": {},
-  "_info": "Este arquivo é gerado automaticamente pelo GitHub Actions 2x ao dia. Não edite manualmente."
+  "updatedAt": "2026-06-19T01:27:02.520Z",
+  "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
+  "strategy": "both",
+  "totalCountries": 20,
+  "prices": {
+    "BR": {
+      "currency": "BRL",
+      "amount": 56,
+      "formatted": "R$ 56,00",
+      "locale": "pt_BR",
+      "name": "Brasil"
+    },
+    "MX": {
+      "currency": "MXN",
+      "amount": 213.44,
+      "formatted": "$213.44",
+      "locale": "es_MX",
+      "name": "México"
+    },
+    "CO": {
+      "currency": "COP",
+      "amount": 36240,
+      "formatted": "$ 36.240",
+      "locale": "es_CO",
+      "name": "Colombia"
+    },
+    "AR": {
+      "currency": "ARS",
+      "amount": 16512,
+      "formatted": "$ 16.512,00",
+      "locale": "es_AR",
+      "name": "Argentina"
+    },
+    "PE": {
+      "currency": "PEN",
+      "amount": 37,
+      "formatted": "S/ 37.00",
+      "locale": "es_PE",
+      "name": "Perú"
+    },
+    "ES": {
+      "currency": "EUR",
+      "amount": 10.4,
+      "formatted": "10,40 €",
+      "locale": "es_ES",
+      "name": "España"
+    },
+    "CL": {
+      "currency": "CLP",
+      "amount": 11121,
+      "formatted": "$11.121",
+      "locale": "es_CL",
+      "name": "Chile"
+    },
+    "EC": {
+      "currency": "USD",
+      "amount": 10,
+      "formatted": "$10.00",
+      "locale": "es_EC",
+      "name": "Ecuador"
+    },
+    "BO": {
+      "currency": "BOB",
+      "amount": 74,
+      "formatted": "Bs 74,00",
+      "locale": "es_BO",
+      "name": "Bolivia"
+    },
+    "CR": {
+      "currency": "CRC",
+      "amount": 4809,
+      "formatted": "₡4 809,00",
+      "locale": "es_CR",
+      "name": "Costa Rica"
+    },
+    "DO": {
+      "currency": "USD",
+      "amount": 10,
+      "formatted": "$10.00",
+      "locale": "es_DO",
+      "name": "Rep. Dominicana"
+    },
+    "SV": {
+      "currency": "USD",
+      "amount": 10,
+      "formatted": "$10.00",
+      "locale": "es_SV",
+      "name": "El Salvador"
+    },
+    "GT": {
+      "currency": "GTQ",
+      "amount": 82,
+      "formatted": "Q 82.00",
+      "locale": "es_GT",
+      "name": "Guatemala"
+    },
+    "HN": {
+      "currency": "HNL",
+      "amount": 282,
+      "formatted": "L 282.00",
+      "locale": "es_HN",
+      "name": "Honduras"
+    },
+    "PA": {
+      "currency": "PAB",
+      "amount": 12,
+      "formatted": "B/. 12.00",
+      "locale": "es_PA",
+      "name": "Panamá"
+    },
+    "PY": {
+      "currency": "PYG",
+      "amount": 64414,
+      "formatted": "Gs. 64.414",
+      "locale": "es_PY",
+      "name": "Paraguay"
+    },
+    "PR": {
+      "currency": "USD",
+      "amount": 10,
+      "formatted": "$10.00",
+      "locale": "es_PR",
+      "name": "Puerto Rico"
+    },
+    "UY": {
+      "currency": "UYU",
+      "amount": 427,
+      "formatted": "$ 427,00",
+      "locale": "es_UY",
+      "name": "Uruguay"
+    },
+    "VE": {
+      "currency": "USD",
+      "amount": 10,
+      "formatted": "$10.00",
+      "locale": "es_VE",
+      "name": "Venezuela"
+    },
+    "PT": {
+      "currency": "EUR",
+      "amount": 10.6,
+      "formatted": "10,60 €",
+      "locale": "pt_PT",
+      "name": "Portugal"
+    }
+  }
 }
