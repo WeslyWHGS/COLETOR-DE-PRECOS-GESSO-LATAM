@@ -33,18 +33,18 @@ jobs:
       # 3. Instala dependências npm
       - name: Instalar dependências
         run: npm install
-        working-directory: scraper
+        working-directory: hotmart-scraper/scraper
 
       # 4. Instala o Chromium do Playwright + dependências de sistema
       - name: Instalar Playwright Chromium
         run: npx playwright install chromium --with-deps
-        working-directory: scraper
+        working-directory: hotmart-scraper/scraper
 
       # 5. Executa o scraper
       #    CHECKOUT_URL é lido do Secret configurado no repositório GitHub
       - name: Coletar preços
         run: node collect-prices.js
-        working-directory: scraper
+        working-directory: hotmart-scraper/scraper
         env:
           CHECKOUT_URL: ${{ secrets.HOTMART_CHECKOUT_URL }}
           # Seletores opcionais — defina como Secrets se a detecção automática falhar.
@@ -73,7 +73,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add hotmart-prices.json
+          git add hotmart-scraper/hotmart-prices.json
           # Só faz commit se o arquivo mudou
           if git diff --staged --quiet; then
             echo "Nenhuma alteração nos preços. Skip commit."
