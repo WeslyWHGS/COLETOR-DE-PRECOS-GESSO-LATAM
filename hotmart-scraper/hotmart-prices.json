@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-01T16:04:41.270Z",
+  "updatedAt": "2026-08-02T11:16:01.422Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
   "prices": {
     "BR": {
       "currency": "BRL",
-      "amount": 55.96,
-      "formatted": "R$ 55,96",
+      "amount": 55.89,
+      "formatted": "R$ 55,89",
       "locale": "pt_BR",
       "name": "Brasil"
     },
@@ -20,8 +20,8 @@
     },
     "CO": {
       "currency": "COP",
-      "amount": 33407,
-      "formatted": "$ 33.407",
+      "amount": 32719,
+      "formatted": "$ 32.719",
       "locale": "es_CO",
       "name": "Colombia"
     },
@@ -48,8 +48,8 @@
     },
     "CL": {
       "currency": "CLP",
-      "amount": 11680,
-      "formatted": "$11.680",
+      "amount": 11682,
+      "formatted": "$11.682",
       "locale": "es_CL",
       "name": "Chile"
     },
@@ -62,15 +62,15 @@
     },
     "BO": {
       "currency": "BOB",
-      "amount": 127,
-      "formatted": "Bs 127,00",
+      "amount": 125,
+      "formatted": "Bs 125,00",
       "locale": "es_BO",
       "name": "Bolivia"
     },
     "CR": {
       "currency": "CRC",
-      "amount": 4795,
-      "formatted": "₡4 795,00",
+      "amount": 4779,
+      "formatted": "₡4 779,00",
       "locale": "es_CR",
       "name": "Costa Rica"
     },
@@ -97,8 +97,8 @@
     },
     "HN": {
       "currency": "HNL",
-      "amount": 284,
-      "formatted": "L 284.00",
+      "amount": 282,
+      "formatted": "L 282.00",
       "locale": "es_HN",
       "name": "Honduras"
     },
@@ -111,8 +111,8 @@
     },
     "PY": {
       "currency": "PYG",
-      "amount": 62937,
-      "formatted": "Gs. 62.937",
+      "amount": 62717,
+      "formatted": "Gs. 62.717",
       "locale": "es_PY",
       "name": "Paraguay"
     },
@@ -125,8 +125,8 @@
     },
     "UY": {
       "currency": "UYU",
-      "amount": 425,
-      "formatted": "$ 425,00",
+      "amount": 424,
+      "formatted": "$ 424,00",
       "locale": "es_UY",
       "name": "Uruguay"
     },
