@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T16:04:19.800Z",
+  "updatedAt": "2026-08-03T12:53:37.767Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
   "prices": {
     "BR": {
       "currency": "BRL",
-      "amount": 55.89,
-      "formatted": "R$ 55,89",
+      "amount": 55.88,
+      "formatted": "R$ 55,88",
       "locale": "pt_BR",
       "name": "Brasil"
     },
@@ -62,8 +62,8 @@
     },
     "BO": {
       "currency": "BOB",
-      "amount": 125,
-      "formatted": "Bs 125,00",
+      "amount": 129,
+      "formatted": "Bs 129,00",
       "locale": "es_BO",
       "name": "Bolivia"
     },
