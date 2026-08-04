@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-03T17:12:59.752Z",
+  "updatedAt": "2026-08-04T11:59:29.409Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
   "prices": {
     "BR": {
       "currency": "BRL",
-      "amount": 55.88,
-      "formatted": "R$ 55,88",
+      "amount": 56.1,
+      "formatted": "R$ 56,10",
       "locale": "pt_BR",
       "name": "Brasil"
     },
@@ -20,15 +20,15 @@
     },
     "CO": {
       "currency": "COP",
-      "amount": 34067,
-      "formatted": "$ 34.067",
+      "amount": 34217,
+      "formatted": "$ 34.217",
       "locale": "es_CO",
       "name": "Colombia"
     },
     "AR": {
       "currency": "ARS",
-      "amount": 17242,
-      "formatted": "$ 17.242,00",
+      "amount": 17309,
+      "formatted": "$ 17.309,00",
       "locale": "es_AR",
       "name": "Argentina"
     },
@@ -48,8 +48,8 @@
     },
     "CL": {
       "currency": "CLP",
-      "amount": 11682,
-      "formatted": "$11.682",
+      "amount": 11617,
+      "formatted": "$11.617",
       "locale": "es_CL",
       "name": "Chile"
     },
@@ -69,8 +69,8 @@
     },
     "CR": {
       "currency": "CRC",
-      "amount": 4779,
-      "formatted": "₡4 779,00",
+      "amount": 4792,
+      "formatted": "₡4 792,00",
       "locale": "es_CR",
       "name": "Costa Rica"
     },
@@ -97,8 +97,8 @@
     },
     "HN": {
       "currency": "HNL",
-      "amount": 282,
-      "formatted": "L 282.00",
+      "amount": 284,
+      "formatted": "L 284.00",
       "locale": "es_HN",
       "name": "Honduras"
     },
@@ -111,8 +111,8 @@
     },
     "PY": {
       "currency": "PYG",
-      "amount": 62717,
-      "formatted": "Gs. 62.717",
+      "amount": 62920,
+      "formatted": "Gs. 62.920",
       "locale": "es_PY",
       "name": "Paraguay"
     },
@@ -125,8 +125,8 @@
     },
     "UY": {
       "currency": "UYU",
-      "amount": 424,
-      "formatted": "$ 424,00",
+      "amount": 425,
+      "formatted": "$ 425,00",
       "locale": "es_UY",
       "name": "Uruguay"
     },
