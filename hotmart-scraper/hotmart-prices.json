@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:02:17.685Z",
+  "updatedAt": "2026-09-14T16:07:49.073Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
@@ -13,8 +13,8 @@
     },
     "MX": {
       "currency": "MXN",
-      "amount": 208.8,
-      "formatted": "$208.80",
+      "amount": 207.64,
+      "formatted": "$207.64",
       "locale": "es_MX",
       "name": "México"
     },
@@ -62,8 +62,8 @@
     },
     "BO": {
       "currency": "BOB",
-      "amount": 132,
-      "formatted": "Bs 132,00",
+      "amount": 129,
+      "formatted": "Bs 129,00",
       "locale": "es_BO",
       "name": "Bolivia"
     },
