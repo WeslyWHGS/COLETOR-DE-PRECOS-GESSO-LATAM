@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-10-06T20:07:43.833Z",
+  "updatedAt": "2026-10-07T17:09:14.023Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
   "prices": {
     "BR": {
       "currency": "BRL",
-      "amount": 54.93,
-      "formatted": "R$ 54,93",
+      "amount": 54.77,
+      "formatted": "R$ 54,77",
       "locale": "pt_BR",
       "name": "Brasil"
     },
     "MX": {
       "currency": "MXN",
-      "amount": 222.72,
-      "formatted": "$222.72",
+      "amount": 220.4,
+      "formatted": "$220.40",
       "locale": "es_MX",
       "name": "México"
     },
     "CO": {
       "currency": "COP",
-      "amount": 34212,
-      "formatted": "$ 34.212",
+      "amount": 34192,
+      "formatted": "$ 34.192",
       "locale": "es_CO",
       "name": "Colombia"
     },
     "AR": {
       "currency": "ARS",
-      "amount": 17589,
-      "formatted": "$ 17.589,00",
+      "amount": 17620,
+      "formatted": "$ 17.620,00",
       "locale": "es_AR",
       "name": "Argentina"
     },
@@ -48,15 +48,15 @@
     },
     "CL": {
       "currency": "CLP",
-      "amount": 12220,
-      "formatted": "$12.220",
+      "amount": 12227,
+      "formatted": "$12.227",
       "locale": "es_CL",
       "name": "Chile"
     },
     "EC": {
       "currency": "USD",
-      "amount": 222.72,
-      "formatted": "$222.72",
+      "amount": 10,
+      "formatted": "$10.00",
       "locale": "es_EC",
       "name": "Ecuador"
     },
@@ -69,22 +69,22 @@
     },
     "CR": {
       "currency": "CRC",
-      "amount": 4834,
-      "formatted": "₡4 834,00",
+      "amount": 4825,
+      "formatted": "₡4 825,00",
       "locale": "es_CR",
       "name": "Costa Rica"
     },
     "DO": {
       "currency": "USD",
-      "amount": 222.72,
-      "formatted": "$222.72",
+      "amount": 10,
+      "formatted": "$10.00",
       "locale": "es_DO",
       "name": "Rep. Dominicana"
     },
     "SV": {
       "currency": "USD",
-      "amount": 222.72,
-      "formatted": "$222.72",
+      "amount": 10,
+      "formatted": "$10.00",
       "locale": "es_SV",
       "name": "El Salvador"
     },
@@ -111,29 +111,29 @@
     },
     "PY": {
       "currency": "PYG",
-      "amount": 61822,
-      "formatted": "Gs. 61.822",
+      "amount": 61737,
+      "formatted": "Gs. 61.737",
       "locale": "es_PY",
       "name": "Paraguay"
     },
     "PR": {
       "currency": "USD",
-      "amount": 222.72,
-      "formatted": "$222.72",
+      "amount": 10,
+      "formatted": "$10.00",
       "locale": "es_PR",
       "name": "Puerto Rico"
     },
     "UY": {
       "currency": "UYU",
-      "amount": 429,
-      "formatted": "$ 429,00",
+      "amount": 427,
+      "formatted": "$ 427,00",
       "locale": "es_UY",
       "name": "Uruguay"
     },
     "VE": {
       "currency": "USD",
-      "amount": 222.72,
-      "formatted": "$222.72",
+      "amount": 10,
+      "formatted": "$10.00",
       "locale": "es_VE",
       "name": "Venezuela"
     },
