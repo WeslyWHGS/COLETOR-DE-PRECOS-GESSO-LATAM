@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T17:07:44.368Z",
+  "updatedAt": "2026-10-08T20:34:18.372Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
@@ -97,8 +97,8 @@
     },
     "HN": {
       "currency": "HNL",
-      "amount": 284,
-      "formatted": "L 284.00",
+      "amount": 285,
+      "formatted": "L 285.00",
       "locale": "es_HN",
       "name": "Honduras"
     },
