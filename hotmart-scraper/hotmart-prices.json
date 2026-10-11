@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T19:12:04.132Z",
+  "updatedAt": "2026-10-11T16:06:00.001Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
   "prices": {
     "BR": {
       "currency": "BRL",
-      "amount": 54.82,
-      "formatted": "R$ 54,82",
+      "amount": 54.9,
+      "formatted": "R$ 54,90",
       "locale": "pt_BR",
       "name": "Brasil"
     },
@@ -111,8 +111,8 @@
     },
     "PY": {
       "currency": "PYG",
-      "amount": 60004,
-      "formatted": "Gs. 60.004",
+      "amount": 60012,
+      "formatted": "Gs. 60.012",
       "locale": "es_PY",
       "name": "Paraguay"
     },
