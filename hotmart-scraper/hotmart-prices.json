@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T19:24:32.857Z",
+  "updatedAt": "2026-10-12T19:34:14.430Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
@@ -20,8 +20,8 @@
     },
     "CO": {
       "currency": "COP",
-      "amount": 33712,
-      "formatted": "$ 33.712",
+      "amount": 33909,
+      "formatted": "$ 33.909",
       "locale": "es_CO",
       "name": "Colombia"
     },
