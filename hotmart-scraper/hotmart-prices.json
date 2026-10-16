@@ -1,34 +1,34 @@
 {
-  "updatedAt": "2026-10-15T18:59:08.418Z",
+  "updatedAt": "2026-10-16T14:28:26.562Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
   "prices": {
     "BR": {
       "currency": "BRL",
-      "amount": 55.36,
-      "formatted": "R$ 55,36",
+      "amount": 56,
+      "formatted": "R$ 56,00",
       "locale": "pt_BR",
       "name": "Brasil"
     },
     "MX": {
       "currency": "MXN",
-      "amount": 228.52,
-      "formatted": "$228.52",
+      "amount": 226.2,
+      "formatted": "$226.20",
       "locale": "es_MX",
       "name": "México"
     },
     "CO": {
       "currency": "COP",
-      "amount": 33670,
-      "formatted": "$ 33.670",
+      "amount": 33502,
+      "formatted": "$ 33.502",
       "locale": "es_CO",
       "name": "Colombia"
     },
     "AR": {
       "currency": "ARS",
-      "amount": 17702,
-      "formatted": "$ 17.702,00",
+      "amount": 17692,
+      "formatted": "$ 17.692,00",
       "locale": "es_AR",
       "name": "Argentina"
     },
@@ -48,8 +48,8 @@
     },
     "CL": {
       "currency": "CLP",
-      "amount": 12372,
-      "formatted": "$12.372",
+      "amount": 12325,
+      "formatted": "$12.325",
       "locale": "es_CL",
       "name": "Chile"
     },
@@ -69,8 +69,8 @@
     },
     "CR": {
       "currency": "CRC",
-      "amount": 4809,
-      "formatted": "₡4 809,00",
+      "amount": 4800,
+      "formatted": "₡4 800,00",
       "locale": "es_CR",
       "name": "Costa Rica"
     },
@@ -97,8 +97,8 @@
     },
     "HN": {
       "currency": "HNL",
-      "amount": 285,
-      "formatted": "L 285.00",
+      "amount": 284,
+      "formatted": "L 284.00",
       "locale": "es_HN",
       "name": "Honduras"
     },
@@ -111,8 +111,8 @@
     },
     "PY": {
       "currency": "PYG",
-      "amount": 60184,
-      "formatted": "Gs. 60.184",
+      "amount": 60055,
+      "formatted": "Gs. 60.055",
       "locale": "es_PY",
       "name": "Paraguay"
     },
@@ -125,8 +125,8 @@
     },
     "UY": {
       "currency": "UYU",
-      "amount": 424,
-      "formatted": "$ 424,00",
+      "amount": 425,
+      "formatted": "$ 425,00",
       "locale": "es_UY",
       "name": "Uruguay"
     },
