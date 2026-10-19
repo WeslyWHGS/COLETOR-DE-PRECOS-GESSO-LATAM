@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T17:52:51.687Z",
+  "updatedAt": "2026-10-19T16:47:00.901Z",
   "checkoutUrl": "https://pay.hotmart.com/W106132275U?off=sli8qf0a",
   "strategy": "both",
   "totalCountries": 20,
@@ -13,8 +13,8 @@
     },
     "MX": {
       "currency": "MXN",
-      "amount": 228.52,
-      "formatted": "$228.52",
+      "amount": 226.2,
+      "formatted": "$226.20",
       "locale": "es_MX",
       "name": "México"
     },
